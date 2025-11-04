@@ -9,3 +9,6 @@ Everything else you need to know is placed in the ``` deboru.lua ```.
 To install, just place ``` deboru.lua ``` in your ``` ~/.config/nvim/colors/ ``` and do ``` :colorscheme deboru ```.
 
 You can use my [nvim poporu](https://github.com/Barysk/nvim) config as a reference.
+
+Example
+![An image of how it looks](example.png)
